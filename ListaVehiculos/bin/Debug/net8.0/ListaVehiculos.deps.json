@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "ListaVehiculos/1.0.0": {
+        "dependencies": {
+          "ListaVehiculosSERVICE": "1.0.0"
+        },
+        "runtime": {
+          "ListaVehiculos.dll": {}
+        }
+      },
+      "ListaVehiculosSERVICE/1.0.0": {
+        "runtime": {
+          "ListaVehiculosSERVICE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ListaVehiculos/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ListaVehiculosSERVICE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

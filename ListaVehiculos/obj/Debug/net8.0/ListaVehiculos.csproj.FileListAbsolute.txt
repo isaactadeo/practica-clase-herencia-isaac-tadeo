@@ -1,0 +1,36 @@
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.exe
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.deps.json
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.runtimeconfig.json
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.pdb
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculosSERVICE.dll
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\bin\Debug\net8.0\ListaVehiculosSERVICE.pdb
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.csproj.AssemblyReference.cache
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.AssemblyInfoInputs.cache
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.AssemblyInfo.cs
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVeh.82DAF5B8.Up2Date
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\refint\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.pdb
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.genruntimeconfig.cache
+C:\Users\Tadeo\source\repos\PRACTICA II\ListaVehiculos\obj\Debug\net8.0\ref\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.exe
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.deps.json
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.runtimeconfig.json
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculos.pdb
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculosSERVICE.dll
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\bin\Debug\net8.0\ListaVehiculosSERVICE.pdb
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.csproj.AssemblyReference.cache
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.AssemblyInfoInputs.cache
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.AssemblyInfo.cs
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.csproj.CoreCompileInputs.cache
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVeh.82DAF5B8.Up2Date
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\refint\ListaVehiculos.dll
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.pdb
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ListaVehiculos.genruntimeconfig.cache
+C:\Users\Tadeo\source\repos\ListadoVehiculos\ListaVehiculos\obj\Debug\net8.0\ref\ListaVehiculos.dll
