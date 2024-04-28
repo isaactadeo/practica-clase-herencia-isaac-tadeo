@@ -6,7 +6,6 @@ using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using ListaVehiculosSERVICE;
 
-
 ListaVehiculo ListaVehiculo = new ListaVehiculo();
 
 Console.WriteLine("Ingresar un vehiculo (s/n)");
@@ -37,7 +36,7 @@ while (ingreso.ToLower()== "s") {
        auto.CantPuertas = cpuertas;
         
         ListaVehiculo.NuevoVehiculo(auto);
-        
+        //CORRECCION: ESTO SE DEBIA ITERAR AL FINAL Y MOSTRAR LOS DETALLES DE CADA VEHICULO
         string caracteristicas = auto.Caracteristicas();
         Console.WriteLine(caracteristicas);
     } else if (tipo.ToLower() == "c") {
@@ -59,7 +58,7 @@ while (ingreso.ToLower()== "s") {
         Console.WriteLine("Vehiculo no reconocido");
     }
     
-   
+//CORRECCION: NO DEJAR MAS DE 1 SALTO DE LINEA
 
 
     Console.WriteLine("¿Desea ingresar otro vehiculo? (s/n)");
